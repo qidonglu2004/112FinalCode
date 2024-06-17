@@ -1,0 +1,35 @@
+C:\csharp\chapter07\Program7_6\Program7_6\bin\Debug\Program7_6.exe
+C:\csharp\chapter07\Program7_6\Program7_6\bin\Debug\Program7_6.pdb
+C:\csharp\chapter07\Program7_6\Program7_6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\csharp\chapter07\Program7_6\Program7_6\obj\x86\Debug\Program7_6.Form1.resources
+C:\csharp\chapter07\Program7_6\Program7_6\obj\x86\Debug\Program7_6.Properties.Resources.resources
+C:\csharp\chapter07\Program7_6\Program7_6\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\csharp\chapter07\Program7_6\Program7_6\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\csharp\chapter07\Program7_6\Program7_6\obj\x86\Debug\Program7_6.exe
+C:\csharp\chapter07\Program7_6\Program7_6\obj\x86\Debug\Program7_6.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter07\Program7_6\Program7_6\obj\x86\Debug\Program7_6.exe
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter07\Program7_6\Program7_6\obj\x86\Debug\Program7_6.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter07\Program7_6\Program7_6\bin\Debug\Program7_6.exe
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter07\Program7_6\Program7_6\bin\Debug\Program7_6.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter07\Program7_6\Program7_6\obj\x86\Debug\Program7_6.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter07\Program7_6\Program7_6\obj\x86\Debug\Program7_6.Form1.resources
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter07\Program7_6\Program7_6\obj\x86\Debug\Program7_6.Properties.Resources.resources
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter07\Program7_6\Program7_6\obj\x86\Debug\Program7_6.csproj.GenerateResource.Cache
+Y:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter07\Program7_6\Program7_6\bin\Debug\Program7_6.exe
+Y:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter07\Program7_6\Program7_6\bin\Debug\Program7_6.pdb
+Y:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter07\Program7_6\Program7_6\obj\x86\Debug\Program7_6.csproj.AssemblyReference.cache
+Y:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter07\Program7_6\Program7_6\obj\x86\Debug\Program7_6.Form1.resources
+Y:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter07\Program7_6\Program7_6\obj\x86\Debug\Program7_6.Properties.Resources.resources
+Y:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter07\Program7_6\Program7_6\obj\x86\Debug\Program7_6.csproj.GenerateResource.cache
+Y:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter07\Program7_6\Program7_6\obj\x86\Debug\Program7_6.csproj.CoreCompileInputs.cache
+Y:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter07\Program7_6\Program7_6\obj\x86\Debug\Program7_6.exe
+Y:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter07\Program7_6\Program7_6\obj\x86\Debug\Program7_6.pdb
+D:\LectureNotes\Programming\Visual C#\112試題\下學期代課\Program7_6\Program7_6\bin\Debug\Program7_6.exe
+D:\LectureNotes\Programming\Visual C#\112試題\下學期代課\Program7_6\Program7_6\bin\Debug\Program7_6.pdb
+D:\LectureNotes\Programming\Visual C#\112試題\下學期代課\Program7_6\Program7_6\obj\x86\Debug\Program7_6.csproj.AssemblyReference.cache
+D:\LectureNotes\Programming\Visual C#\112試題\下學期代課\Program7_6\Program7_6\obj\x86\Debug\Program7_6.Form1.resources
+D:\LectureNotes\Programming\Visual C#\112試題\下學期代課\Program7_6\Program7_6\obj\x86\Debug\Program7_6.Properties.Resources.resources
+D:\LectureNotes\Programming\Visual C#\112試題\下學期代課\Program7_6\Program7_6\obj\x86\Debug\Program7_6.csproj.GenerateResource.cache
+D:\LectureNotes\Programming\Visual C#\112試題\下學期代課\Program7_6\Program7_6\obj\x86\Debug\Program7_6.csproj.CoreCompileInputs.cache
+D:\LectureNotes\Programming\Visual C#\112試題\下學期代課\Program7_6\Program7_6\obj\x86\Debug\Program7_6.exe
+D:\LectureNotes\Programming\Visual C#\112試題\下學期代課\Program7_6\Program7_6\obj\x86\Debug\Program7_6.pdb

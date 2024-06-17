@@ -1,0 +1,18 @@
+D:\LectureNotes\Programming\Visual C#\112試題\下學期代課\題目\PopularName\Program7_6\bin\Debug\PopularName.exe
+D:\LectureNotes\Programming\Visual C#\112試題\下學期代課\題目\PopularName\Program7_6\bin\Debug\PopularName.pdb
+D:\LectureNotes\Programming\Visual C#\112試題\下學期代課\題目\PopularName\Program7_6\obj\x86\Debug\PopularName.csproj.AssemblyReference.cache
+D:\LectureNotes\Programming\Visual C#\112試題\下學期代課\題目\PopularName\Program7_6\obj\x86\Debug\Program7_6.Form1.resources
+D:\LectureNotes\Programming\Visual C#\112試題\下學期代課\題目\PopularName\Program7_6\obj\x86\Debug\PopularName.Properties.Resources.resources
+D:\LectureNotes\Programming\Visual C#\112試題\下學期代課\題目\PopularName\Program7_6\obj\x86\Debug\PopularName.csproj.GenerateResource.cache
+D:\LectureNotes\Programming\Visual C#\112試題\下學期代課\題目\PopularName\Program7_6\obj\x86\Debug\PopularName.csproj.CoreCompileInputs.cache
+D:\LectureNotes\Programming\Visual C#\112試題\下學期代課\題目\PopularName\Program7_6\obj\x86\Debug\PopularName.exe
+D:\LectureNotes\Programming\Visual C#\112試題\下學期代課\題目\PopularName\Program7_6\obj\x86\Debug\PopularName.pdb
+C:\Users\m306\Desktop\112_2final-main\PopularName\Program7_6\bin\Debug\PopularName.exe
+C:\Users\m306\Desktop\112_2final-main\PopularName\Program7_6\bin\Debug\PopularName.pdb
+C:\Users\m306\Desktop\112_2final-main\PopularName\Program7_6\obj\x86\Debug\PopularName.csproj.AssemblyReference.cache
+C:\Users\m306\Desktop\112_2final-main\PopularName\Program7_6\obj\x86\Debug\Program7_6.Form1.resources
+C:\Users\m306\Desktop\112_2final-main\PopularName\Program7_6\obj\x86\Debug\PopularName.Properties.Resources.resources
+C:\Users\m306\Desktop\112_2final-main\PopularName\Program7_6\obj\x86\Debug\PopularName.csproj.GenerateResource.cache
+C:\Users\m306\Desktop\112_2final-main\PopularName\Program7_6\obj\x86\Debug\PopularName.csproj.CoreCompileInputs.cache
+C:\Users\m306\Desktop\112_2final-main\PopularName\Program7_6\obj\x86\Debug\PopularName.exe
+C:\Users\m306\Desktop\112_2final-main\PopularName\Program7_6\obj\x86\Debug\PopularName.pdb
